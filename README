@@ -1,0 +1,34 @@
+# Weather App
+
+A simple web app that fetches and displays current weather data for any city using the OpenWeatherMap API.
+
+## Features
+- Enter a city name and see the current temperature and weather description
+- Uses OpenWeatherMap's free API
+- Clean, responsive UI
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Fetch API)
+- OpenWeatherMap API
+
+## Live Demo
+[View Weather App](https://yadrielpereyra.github.io/weather-app/)
+
+## How to Use
+1. Enter a city name in the input field.
+2. Click **"Get Weather"**.
+3. The app will display the current temperature and weather description.
+
+## Setup (Local)
+1. Clone the repository.
+2. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api).
+3. Replace `'YOUR_API_KEY_HERE'` in the `script.js` file with your API key.
+4. Open `index.html` in your browser.
+
+## Author
+[Yadriel Pereyra](https://github.com/YadrielPereyra)
+
+## License
+This project is open source under the MIT license.
